@@ -1,3 +1,9 @@
 body{
     background-color: darkviolet;
 }
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightyellow;
+    font-style: normal;
+}
